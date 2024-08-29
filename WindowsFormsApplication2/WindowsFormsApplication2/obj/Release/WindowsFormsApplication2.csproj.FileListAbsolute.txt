@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
